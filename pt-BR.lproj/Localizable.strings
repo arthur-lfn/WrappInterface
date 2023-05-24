@@ -1,0 +1,46 @@
+/*
+  Localizable.strings
+  wrapp
+*/
+
+// Main View
+"souveniers" = "Meus presentes";
+"drafts" = "Rascunhos";
+"received" = "Recebidos";
+"sent" = "Enviados";
+
+// WrappingBoardView
+"draft" = "Rascunho";
+"shareLinkSubject" = "você precisa fixar o Widget na tela inicial para receber seu presente";
+"shareLinkMessage" = "Mal posso esperar para que você descubra o que está escondido atrás do widget!";
+"give" = "Enviar";
+"delete" = "Deletar";
+
+// GiftWrapPreviewView
+"today" = "Hoje";
+"oneDay" = "Um dia";
+"days" = "dias";
+"oneHour" = "Uma hora";
+"hours" = "horas";
+"minutes" = "minutos";
+
+// ContactChoosingView
+"lucky" = "Quem é a pessoa de sorte?";
+
+// DateEditingView
+"giftTitle" = "Dê um título para o presente";
+"open" = "Para abrir o";
+
+// GiftPickingView
+"kindWords" = "Kind words required here...";
+"addImage" = "Adicionar uma imagem";
+
+// FrameView
+"video" = "Video feed";
+
+// Feature
+"contact" = "Escolha um contato";
+"gift" = "Escolha um presente";
+"date" = "Escolha uma data";
+"skin" = "Escolha uma skin";
+"font" = "Escolha uma fonte";
